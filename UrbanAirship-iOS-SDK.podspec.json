@@ -1,6 +1,6 @@
 {
   "name": "UrbanAirship-iOS-SDK",
-  "version": "5.0.0",
+  "version": "5.0.2",
   "license": "BSD",
   "platforms": {
     "ios": "6.0"
@@ -35,9 +35,9 @@
   ],
   "compiler_flags": [
     "$(inherited)",
-    "-D_UA_VERSION=\"5.0.0\""
+    "-D_UA_VERSION=\"5.0.2\""
   ],
   "xcconfig": {
-    "OTHER_CFLAGS": "$(inherited) -D_UA_VERSION=\"5.0.0\""
+    "OTHER_CFLAGS": "$(inherited) -D_UA_VERSION=\"5.0.2\""
   }
 }
